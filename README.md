@@ -1,4 +1,4 @@
-# MaShuai-Farm-2-Godot-Edition-APK-preview
+# MaShuai-Farm-2-Godot-Edition-APK
 made in Godot 4.this is a open world game 
 
 Android 7.0+
