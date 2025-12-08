@@ -12,5 +12,5 @@ assignees: ''
 如果有/if you have
 ## 您使用的游戏版本/your version
 
-## 您的操作系统/your system
-Android or Windows
+## 您的操作系统以及版本/your system and system version
+e.g:Android 15 or Windows 10
