@@ -6,8 +6,9 @@ labels: bug
 assignees: ''
 ---
 
-## 问题描述/bugs
+## 问题或bug描述/bugs
 
-## 使用版本/your version
+## 您使用的版本/your version
 
-## 操作系统/system
+## 您的操作系统/your system
+Android or Windows
