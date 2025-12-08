@@ -10,4 +10,4 @@ assignees: ''
 
 ## 使用版本/your version
 
-## 使用系统/system
+## 操作系统/system
