@@ -1,6 +1,6 @@
 # MaShuai-Farm-2-Godot-Edition-APK
 
-[Version Chinese here ](https://github.com/MaShuai-Farm///main/README-zh_CN.md)
+[Version Chinese here ](https://github.com/jiasas888b/MaShuai-Farm-2-Godot-Edition-APK-all/main/README_zh_CN.md)
 
 made in Godot 4.this is a open world game 
 
