@@ -2,7 +2,7 @@
 
 ## 支持Android 7.0+
 
-下载 MaShuai Farm 2！
+下载 MaShuai Farm 2 的最新版本！
 
 开发者:jiasas888b(jiasas888/jiasas)
 
