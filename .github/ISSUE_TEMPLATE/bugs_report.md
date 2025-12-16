@@ -13,5 +13,5 @@ assignees: ''
 ## 您使用的游戏版本/your version
 
 ## 您的操作系统以及版本/your system and system version
-e.g:Android 15 or Windows 10
+Android 16 or Windows 10
 ## 修复的版本/fix version（无需填写/don't need fill in）
