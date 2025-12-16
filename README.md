@@ -4,7 +4,7 @@
 
 made in Godot 4 this is a open world game 
 
-## Android 7.0+
+### For Android 7.0+
 
 download lastest version of MaShuai Farm 2
 
