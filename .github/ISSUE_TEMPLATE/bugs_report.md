@@ -1,8 +1,8 @@
 ---
 name: 🐛Bug report
 about: 'report bugs'
-title: '🐛'
-labels: bug
+title: ''
+labels: 🐛bug
 assignees: ''
 ---
 
