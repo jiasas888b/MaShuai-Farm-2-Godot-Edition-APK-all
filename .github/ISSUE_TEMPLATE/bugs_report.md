@@ -2,14 +2,14 @@
 name: 🐛Bug report
 about: 'report bugs'
 title: ''
-labels: 🐛bug
+labels: 漏洞（bug）
 assignees: ''
 ---
 
 ## 问题或bug描述/bugs
 
-## 截图或视频/screenshot or video
-如果有/if you have
+## 截图或视频（如果有）/screenshot or video（if have）
+
 ## 您使用的游戏版本/your version
 
 ## 您的操作系统以及版本/your system and system version
