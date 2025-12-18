@@ -2,7 +2,7 @@
 name: suggestions
 about: 'write your idea or suggestions'
 title: ''
-labels: suggestion
+labels: 想法和建议（suggestion）计划中（planing）
 assignees: ''
 ---
 
