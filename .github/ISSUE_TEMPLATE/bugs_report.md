@@ -2,7 +2,7 @@
 name: 🐛Bug report
 about: 'report bugs'
 title: ''
-labels: 漏洞（bug）
+labels: 漏洞（bug）未解决(unresolved)
 assignees: ''
 ---
 
