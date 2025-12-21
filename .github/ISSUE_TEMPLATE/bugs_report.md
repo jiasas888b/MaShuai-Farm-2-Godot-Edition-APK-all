@@ -15,4 +15,6 @@ assignees: ''
 
 ### 您的操作系统以及版本/your system and system version
 Android 16 or Windows 10
+### 客户端/client
+Android ；Windows ；web
 ## 修复的版本/fix version（无需填写/don't need fill in）
