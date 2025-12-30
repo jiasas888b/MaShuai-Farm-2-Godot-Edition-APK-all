@@ -8,7 +8,7 @@ assignees: ''
 
 ## 描述/describe
 ### 问题或bug描述/bugs
--[]帮他人描述
+-[] 帮他人描述
 
 ### 截图或视频（如果有）/screenshot or video（if have）
 
