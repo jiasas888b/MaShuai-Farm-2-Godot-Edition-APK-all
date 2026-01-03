@@ -11,3 +11,5 @@ download lastest version of MaShuai Farm 2
 developer:jiasas888b(jiasas888/jiasas)
 
 itch.io too https://jiasas888.itch.io/mashuai-farm-2
+
+web Edition(itch): https://jiasas888.itch.io/mashuai-farm-2-web
