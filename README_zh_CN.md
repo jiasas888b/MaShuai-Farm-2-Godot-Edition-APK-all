@@ -7,3 +7,5 @@
 开发者:jiasas888b(jiasas888/jiasas)
 
 同样在itch上发布了 https://jiasas888.itch.io/mashuai-farm-2
+
+网页版（itch）：  https://jiasas888.itch.io/mashuai-farm-2-web
