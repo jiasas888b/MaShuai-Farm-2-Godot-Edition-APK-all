@@ -8,8 +8,8 @@ assignees: ''
 
 ## 描述/describe
 ### 问题或bug描述/bugs
- - [ ] 是否帮他人描述/report for others
 
+ - [ ] 是否帮他人描述/report for others
 ### 截图或视频（如果有）/screenshot or video（if have）
 
 ### 您使用的游戏版本/your version
