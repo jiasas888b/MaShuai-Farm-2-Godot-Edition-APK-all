@@ -33,3 +33,15 @@
 ### alpha 0.2.0（2025.7.20）
 * Android 5.0+
 * Windows 10+
+### alpha 0.1.5（2025.6.6）
+* Android 5.0+
+### alpha 0.1.3（2025.5.23）
+* Android 5.0+
+### alpha 0.1.2（2025.5.18）
+* Android 5.0+
+### alpha 0.1.1（2025.5.8）
+* Android 5.0+
+### Demo（2025.4.26）
+* Android 5.0+
+### 0.0.2a（2025.3.30）
+* Android 5.0+
