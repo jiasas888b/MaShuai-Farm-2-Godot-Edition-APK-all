@@ -1,7 +1,7 @@
 ## version support
 
 ### alpha 0.4.0（beta）
-* Android Android8.0+
+* Android Android 8.0+
 * Windows 10+
 ### alpha 0.3.6（2026.1.1）
 * Android 7.0+
