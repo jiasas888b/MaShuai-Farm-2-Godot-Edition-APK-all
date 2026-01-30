@@ -8,7 +8,7 @@ made in Godot 4 this is a open world game
 
 download lastest version of MaShuai Farm 2
 
-developer:jiasas888b(jiasas888/jiasas)
+developer:jiasas888b(jiasas888/jiasas),gvm-SM2
 
 itch.io too https://jiasas888.itch.io/mashuai-farm-2
 
