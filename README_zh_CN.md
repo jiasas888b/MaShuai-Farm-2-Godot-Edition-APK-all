@@ -1,6 +1,6 @@
 一个用godot 4引擎制作的游戏
 
-## 支持Android 7.0+
+## 支持Android 8.0+
 
 下载 MaShuai Farm 2 的最新版本！
 
