@@ -4,7 +4,7 @@
 
 made in Godot 4 this is a open world game 
 
-### For Android 8.0+  &  Windows 10+
+### For Android 9.0+  &  Windows 10+
 
 download lastest version of MaShuai Farm 2
 
