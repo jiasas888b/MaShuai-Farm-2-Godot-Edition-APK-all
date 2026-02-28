@@ -4,7 +4,7 @@
 
 [Android support version history ](https://github.com/jiasas888b/MaShuai-Farm-2-Godot-Edition-APK-all/blob/alpha-version/Android_support.md)
 
-made in Godot 4 this is a open world game 
+made in Godot 4 this is a open world game is alpha test version now 
 
 ### For Android 9.0+  &  Windows 10+
 
