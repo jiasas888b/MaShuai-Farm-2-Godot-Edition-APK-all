@@ -19,3 +19,7 @@ web Edition(itch): https://jiasas888.itch.io/mashuai-farm-2-web
 ### Game images
 
 ![Game image](https://github.com/jiasas888b/MaShuai-Farm-City/blob/alpha-version/images%2FScreenshot_2026-03-09-21-33-39-326_com.MSS.MSF2.jpg?raw=true)
+![Game image](https://github.com/jiasas888b/MaShuai-Farm-City/blob/alpha-version/images%2FScreenshot_2026-03-09-21-33-50-514_com.MSS.MSF2.jpg?raw=true)
+![Game image](https://github.com/jiasas888b/MaShuai-Farm-City/blob/alpha-version/images%2FScreenshot_2026-03-09-21-33-56-549_com.MSS.MSF2.jpg?raw=true)
+![Game image](https://github.com/jiasas888b/MaShuai-Farm-City/blob/alpha-version/images%2FScreenshot_2026-03-09-21-34-12-064_com.MSS.MSF2.jpg?raw=true)
+![Game image](https://github.com/jiasas888b/MaShuai-Farm-City/blob/alpha-version/images%2FScreenshot_2026-03-09-21-34-28-577_com.MSS.MSF2.jpg?raw=true)
