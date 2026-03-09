@@ -1,6 +1,6 @@
 # MaShuai:Farm&City
 
-[Version Chinese here ](https://github.com/jiasas888b/MaShuai-Farm-2-Godot-Edition-APK-all/blob/alpha-version/README_zh_CN.md)
+[在此查看中文简介 ](https://github.com/jiasas888b/MaShuai-Farm-2-Godot-Edition-APK-all/blob/alpha-version/README_zh_CN.md)
 
 [Android support version history ](https://github.com/jiasas888b/MaShuai-Farm-2-Godot-Edition-APK-all/blob/alpha-version/Android_support.md)
 
