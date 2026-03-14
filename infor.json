@@ -1,8 +1,11 @@
 {
-"name":"MaShuai Farm 2",
+"name":"MaShuai City",
 "start_dev":"2025.3.28",
 "developer_count":2,
 "Studio":"Balang Studio",
 "MSphone_OS_version":1.1,
-"Android_min_sdk":26,
+"Android_min_sdk":28,
+"min_Android_ver":9,
+"target_sdk":35,
+"target_Android_ver":15
 }
