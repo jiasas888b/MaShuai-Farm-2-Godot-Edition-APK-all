@@ -1,4 +1,4 @@
-# 马帅：农场与城市
+# 马帅城市
 
 [ 支持的安卓版本 ](https://github.com/jiasas888b/MaShuai-Farm-City/blob/alpha-version/Android_support.md)
 
