@@ -1,4 +1,4 @@
-# MaShuai:Farm&City
+# MaShuai City
 
 [在此查看中文简介 ](https://github.com/jiasas888b/MaShuai-Farm-2-Godot-Edition-APK-all/blob/alpha-version/README_zh_CN.md)
 
