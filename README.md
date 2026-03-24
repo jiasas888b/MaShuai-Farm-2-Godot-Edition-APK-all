@@ -4,8 +4,7 @@
 
 [Android support version history ](https://github.com/jiasas888b/MaShuai-Farm-2-Godot-Edition-APK-all/blob/alpha-version/Android_support.md)
 
-![GitHub All Releases](https://img.shields.io/github/downloads/jiasas888b/MaShuai-Farm-City/total)
-[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?logo=youtube&logoColor=white)](https://www.youtube.com/@jiasas)
+[![YouTube](https://img.shields.io/youtube/channel/subscribers/jiasas?label=订阅&style=flat-square&logo=youtube&logoColor=red&color=white)](https://www.youtube.com/@jiasas)
 
 made in Godot 4 this is a open world City game is alpha test version now 
 
