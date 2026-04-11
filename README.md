@@ -14,7 +14,7 @@ made in Godot 4 this is a open world City game is alpha test version now
 
 download lastest version of MaShuai Farm 2
 
-developer:jiasas888b(jiasas888/jiasas),gvm-SM2
+developer:jiasas888b(jiasas888/jiasas),gvm-SM2（prisma3d model maker）
 
 itch.io too https://jiasas888.itch.io/mashuai-farm-2
 
