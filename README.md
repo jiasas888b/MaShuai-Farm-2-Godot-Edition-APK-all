@@ -12,7 +12,7 @@ made in Godot 4 this is a open world City game is alpha test version now
 
 ### For Android 9.0+  &  Windows 10+
 
-download lastest version of MaShuai Farm 2
+download lastest version of MaShuai City
 
 developer:jiasas888b(jiasas888/jiasas),gvm-SM2（prisma3d model maker）
 
