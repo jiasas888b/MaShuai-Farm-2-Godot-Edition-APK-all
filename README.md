@@ -6,7 +6,7 @@
 
 ![GitHub All Releases](https://img.shields.io/github/downloads/jiasas888b/MaShuai-Farm-City/total)
 
-[![YouTube](https://img.shields.io/badge/YouTube-Balang_Studio-red?logo=youtube&logoColor=white)](https://youtube.com/@jiasas)
+[![YouTube](https://img.shields.io/badge/YouTube-jiasas-red?logo=youtube&logoColor=white)](https://youtube.com/@jiasas)
 
 made in Godot 4 this is a open world City game is alpha test version now 
 
