@@ -8,7 +8,7 @@
 
 下载马帅城市的最新版本！
 
-开发者:jiasas888b(jiasas888/jiasas)
+开发者:jiasas888b(jiasas888/jiasas);gvw-SM2 (prisma3d模型制作师)
 
 同样在itch上发布了 https://jiasas888.itch.io/mashuai-farm-2
 
