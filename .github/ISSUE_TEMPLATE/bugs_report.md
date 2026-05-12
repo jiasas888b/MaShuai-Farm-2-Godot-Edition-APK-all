@@ -9,7 +9,8 @@ assignees: ''
 ## 描述/describe
 ### 问题或bug描述/bugs
 
- - [ ] 是否帮他人描述/report for others
+报告者/reporter（本人无需填写If you are yourself, you don't need to fill it out.）
+
 ### 截图或视频（如果有）/screenshot or video（if have）
 
 ### 您使用的游戏版本/your version
