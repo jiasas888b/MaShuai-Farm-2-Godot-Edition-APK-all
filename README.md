@@ -13,7 +13,7 @@ made in Godot 4 this is a open world City game is alpha test version now
 ### Game content
 * Single player
   * only has one real player that is you
-  * there is a City many building , some building you can in
+  * there is a City with many building , some building you can in
   * there you can do anything you want.
   * buy,sell,pick up,feed to MaShuai and explore city
 * Multiplayet
