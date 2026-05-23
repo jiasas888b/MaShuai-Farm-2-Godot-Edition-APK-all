@@ -16,10 +16,10 @@ made in Godot 4 this is a open world City game is alpha test version now
   * there is a City with many building , some building you can in
   * there you can do anything you want.
   * buy,sell,pick up,feed to MaShuai and explore city
-* Multiplayet
+* Multiplayer
   * now only LAN game
   * you can play with others in same WiFi
-  * most content is same with single player
+  * most content is same to single player
 * options
   * there is so many options for you to setting a best value for your equipment
   * resolution 
