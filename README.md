@@ -10,6 +10,30 @@
 
 made in Godot 4 this is a open world City game is alpha test version now 
 
+### Game content
+* Single player
+  * only has one real player that is you
+  * there is a City many building , some building you can in
+  * there you can do anything you want.
+  * buy,sell,pick up,feed to MaShuai and explore city
+* Multiplayet
+  * now only LAN game
+  * you can play with others in same WiFi
+  * most content is same with single player
+* options
+  * there is so many options for you to setting a best value for your equipment
+  * resolution 
+  * FPS setting , set MAX FPS . In Android MAX is 120 , in Windows and Linux is 240
+  * shadows , set shadow resolution to improve performance
+  * Rendering distance , change for improve performance and experience
+  * translates , now(2026.5)has 9 types languages for different country. if you find some where is wrong please create issues to improve the translation
+  * graphics , improve your experience
+
+
+* if you running into some bug or has some good ideas please create issues and thank for you improve the game :)
+
+### How to play?
+
 ### For Android 7.0+  &  Windows 10+
 
 download lastest version of MaShuai City
