@@ -30,7 +30,7 @@ made in Godot 4 this is a open world City game is alpha test version now
   * graphics , improve your experience
 
 
-* if you running into some bug or has some good ideas please create issues and thank for you improve the game :)
+* if you running into some bugs or has some good ideas please create issues and thank for you improve the game :)
 
 ### How to play?
 
