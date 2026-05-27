@@ -6,7 +6,7 @@ labels: [想法和建议（suggestion）,计划中（planing）]
 assignees: ''
 ---
 
-- [ ] 帮他人提交/Help others submit
+### 报告者（本人无需填写）/reporter
 
 ## 详细描述您的建议/expand on your suggestions
 
