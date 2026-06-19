@@ -9,6 +9,10 @@
 [![YouTube](https://img.shields.io/badge/YouTube-jiasas-red?logo=youtube&logoColor=white)](https://youtube.com/@jiasas)
 
 made in Godot 4 this is a open world City game is alpha test version now 
+### Game requirements
+* Android 8.0+ arm64v8
+* Windows 10+
+* Linux x86_64
 
 ### Game content
 * Single player
