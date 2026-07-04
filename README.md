@@ -38,7 +38,7 @@ made in Godot 4 this is a open world City game is alpha test version now
 
 ### How to play?
 
-### For Android 7.0+  &  Windows 10+
+### For Android 8.0+  &  Windows 10+
 
 download lastest version of MaShuai City
 
