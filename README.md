@@ -10,9 +10,9 @@
 
 made in Godot 4 this is a open world City game is alpha test version now 
 ### Game requirements
-* Android 8.0+ arm64v8
-* Windows 10+
-* Linux x86_64
+| Android | Windows | Linux | harmony |
+|-----------|---------|-----------------|
+| 8.0+ | 10+| x86_64| coming soon|
 
 ### Game content
 * Single player
