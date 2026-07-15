@@ -21,6 +21,8 @@ made in Godot 4 this is a open world City game is alpha test version now
 |-----------|---------|--------|--------|
 | 10+ | 10+| x86_64| coming soon|
 
+### ⚠️ in Android the package name of 0.4.400 will be change in 0.5.0 and 0.5.0-beta/exp will be different of stable version⚠️
+
 ### Game content
 * Single player
   * only has one real player that is you
