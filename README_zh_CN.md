@@ -4,7 +4,7 @@
 
 一个用godot 4引擎制作的游戏
 
-### 支持Android 7.0+  和  Windows 10+
+### 支持Android 8.0+  和  Windows 10+
 
 下载马帅城市的最新版本！
 
@@ -13,6 +13,10 @@
 同样在itch上发布了 https://jiasas888.itch.io/mashuai-farm-2
 
 网页版（itch）：  https://jiasas888.itch.io/mashuai-farm-2-web
+
+### 游戏内容
+
+### 游戏玩法
 
 ### Game images
 
