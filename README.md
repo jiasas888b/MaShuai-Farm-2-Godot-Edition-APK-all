@@ -3,7 +3,7 @@
 [<kbd> 查看中文简介</kbd>](https://github.com/jiasas888b/MaShuai-Farm-2-Godot-Edition-APK-all/blob/alpha-version/README_zh_CN.md)
 [<kbd>how play in Mac</kbd>](https://github.com/jiasas888b/MaShuai-Farm-2-Godot-Edition-APK-all/blob/alpha-version/playinmac.md)
 
-[Android support version history ](https://github.com/jiasas888b/MaShuai-Farm-2-Godot-Edition-APK-all/blob/alpha-version/Android_support.md)
+[<kbd>Android support version history</kbd> ](https://github.com/jiasas888b/MaShuai-Farm-2-Godot-Edition-APK-all/blob/alpha-version/Android_support.md)
 
 ![GitHub All Releases](https://img.shields.io/github/downloads/jiasas888b/MaShuai-Farm-City/total)
 ![GitHub Release](https://img.shields.io/github/v/release/jiasas888b/mashuai-farm-city?label=Latest%20Stable&color=blue)
