@@ -13,13 +13,13 @@
 made in Godot 4 this is a open world City game is alpha test version now 
 ### Game requirements
 #### min
-| Android | Windows | Linux | harmony |
-|-----------|---------|--------|--------|
-| 8.0+ | 10+| x86_64| coming soon|
+| Android | Windows | Linux | MacOS | harmony |
+|-----------|---------|--------|----|--------|
+| 8.0+ | 10+| x86_64| x86_64 10.15;arm64 11.00| coming soon|
 #### target
-| Android | Windows | Linux | harmony |
-|-----------|---------|--------|--------|
-| 10+ | 10+| x86_64| coming soon|
+| Android | Windows | MacOS | Linux | harmony |
+|-----------|---------|-----|--------|--------|
+| 10+ | 10+| x86_64| x86_64 10.15;arm64 11.00| coming soon|
 
 ### ⚠️ in Android the package name of 0.4.400 will be change in 0.5.0 and 0.5.0-beta/exp will be different of stable version⚠️
 
