@@ -17,7 +17,7 @@ made in Godot 4 this is a open world City game is alpha test version now
 |-----------|---------|--------|----|--------|
 | 8.0+ | 10+| x86_64| x86_64 10.15;arm64 11.00| coming soon|
 #### target
-| Android | Windows | MacOS | Linux | harmony |
+| Android | Windows | Linix | MacOS | harmony |
 |-----------|---------|-----|--------|--------|
 | 10+ | 10+| x86_64| x86_64 10.15;arm64 11.00| coming soon|
 
