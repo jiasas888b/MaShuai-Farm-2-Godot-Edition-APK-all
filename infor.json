@@ -8,5 +8,5 @@
 "min_Android_ver":9,
 "target_sdk":36,
 "target_Android_ver":16,
-"protocol_version":2
+"protocol_version":13
 }
