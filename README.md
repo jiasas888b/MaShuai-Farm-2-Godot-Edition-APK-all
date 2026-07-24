@@ -25,6 +25,16 @@ made in Godot 4 this is a open world City game is alpha test version now
 ### ⚠️ in Android the package name of 0.4.400 will be change in 0.5.0 and 0.5.0-beta/exp will be different of stable version⚠️
 
 ### Game content
+* control
+  * Android
+    * used UI button , joystick
+  * keyboard(0.5.0 beta)
+    * WASD to move
+    * space to jump
+    * Q to run
+    * R to open doors
+    * U to open bug
+    * E to enter car and Get out of the car
 * Single player
   * only has one real player that is you
   * there is a City with many building , some building you can in
