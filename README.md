@@ -16,7 +16,7 @@ made in Godot 4 this is a open world City game is alpha test version now
 #### min
 | Android | Windows | Linux | MacOS | harmony |
 |-----------|---------|--------|----|--------|
-| 8.0+ | 10+| x86_64| x86_64 10.15;arm64 11.00| coming soon|
+| 9.0+ | 10+| x86_64| x86_64 10.15;arm64 11.00| coming soon|
 #### target
 | Android | Windows | Linix | MacOS | harmony |
 |-----------|---------|-----|--------|--------|
@@ -62,7 +62,7 @@ made in Godot 4 this is a open world City game is alpha test version now
 
 ### How to play?
 
-### For Android 8.0+  &  Windows 10+
+### For Android 9.0+  &  Windows 10+
 
 download lastest version of MaShuai City
 
