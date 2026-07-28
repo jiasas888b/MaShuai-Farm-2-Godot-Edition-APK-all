@@ -40,10 +40,9 @@ made in Godot 4 this is a open world City game is alpha test version now
   * there is a City with many building , some building you can in
   * there you can do anything you want.
   * buy,sell,pick up,feed to MaShuai and explore city
-  * exp
-    * planting wheat and sell
-    * buy hoe to planting
-    * car driving
+  * planting wheat and sell
+  * buy hoe to planting
+  * car driving
 * Multiplayer
   * now only LAN game
   * you can play with others in same WiFi
