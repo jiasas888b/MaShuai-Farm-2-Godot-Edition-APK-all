@@ -30,7 +30,7 @@ made in Godot 4 this is a open world City game is alpha test version now
 * control
   * Android
     * used UI button , joystick
-  * keyboard(0.5.0 beta)
+  * keyboard
     * WASD to move
     * space to jump
     * Q to run
