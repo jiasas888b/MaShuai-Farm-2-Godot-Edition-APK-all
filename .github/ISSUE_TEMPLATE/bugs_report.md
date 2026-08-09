@@ -13,7 +13,7 @@ assignees: ''
 
 ### 截图或视频（如果有）/screenshot or video（if have）
 
-### 您使用的游戏版本/your version
+### 游戏版本/game version
 
 ### 您的操作系统以及版本/your system and system version
 Android 16 or Windows 10
