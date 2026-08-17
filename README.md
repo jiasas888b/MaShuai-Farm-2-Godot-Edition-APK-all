@@ -21,10 +21,8 @@ made in Godot 4 this is a open world City game is alpha test version now
 #### target
 | Android | Windows | Linix | MacOS | harmony |
 |-----------|---------|-----|--------|--------|
-| 10+ | 10+| x86_64| x86_64 10.15;arm64 11.00| coming soon|
+| 11+ | 10+| x86_64| x86_64 10.15;arm64 11.00| coming soon|
 | 8GB RAM | 8GB RAM | 8GB RAM | 8GB RAM | none |
-
-### ⚠️ in Android the package name of 0.4.400 will be change in 0.5.0 and 0.5.0-beta/exp will be different of stable version⚠️
 
 ### Game content
 * control
