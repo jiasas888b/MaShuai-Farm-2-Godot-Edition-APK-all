@@ -19,12 +19,12 @@
 | Android | Windows | Linux | MacOS | harmony |
 |-----------|---------|--------|----|--------|
 | 9.0+ | 10+| x86_64| x86_64 10.15;arm64 11.00| coming soon|
-| 4GB RAM | 4GB RAM | 4GB RAM | 4GB RAM | none |
+| 4GB 运存 | 4GB 运存 | 4GB 运存 | 4GB 运存 | none |
 #### 建议
 | Android | Windows | Linix | MacOS | harmony |
 |-----------|---------|-----|--------|--------|
 | 11+ | 10+| x86_64| x86_64 10.15;arm64 11.00| coming soon|
-| 8GB RAM | 8GB RAM | 8GB RAM | 8GB RAM | none |
+| 8GB 运存 | 8GB 运存 | 8GB 运存 | 8GB 运存 | none |
 ### 游戏玩法
 
 ### Game images
