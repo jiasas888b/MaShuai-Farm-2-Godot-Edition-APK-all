@@ -15,7 +15,16 @@
 网页版（itch）：  https://jiasas888.itch.io/mashuai-farm-2-web
 
 ### 游戏内容
-
+#### 最低
+| Android | Windows | Linux | MacOS | harmony |
+|-----------|---------|--------|----|--------|
+| 9.0+ | 10+| x86_64| x86_64 10.15;arm64 11.00| coming soon|
+| 4GB RAM | 4GB RAM | 4GB RAM | 4GB RAM | none |
+#### 建议
+| Android | Windows | Linix | MacOS | harmony |
+|-----------|---------|-----|--------|--------|
+| 11+ | 10+| x86_64| x86_64 10.15;arm64 11.00| coming soon|
+| 8GB RAM | 8GB RAM | 8GB RAM | 8GB RAM | none |
 ### 游戏玩法
 
 ### Game images
