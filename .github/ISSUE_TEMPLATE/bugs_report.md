@@ -7,9 +7,10 @@ assignees: ''
 ---
 
 ## 描述/describe
-### 问题或bug描述/bugs
 
-#### 报告者/reporter（本人无需填写If you are yourself, you don't need to fill it out.）
+## 报告者/reporter（本人无需填写If you are yourself, you don't need to fill it out.）
+
+## 重现步骤/septs of recreate
 
 ### 截图或视频（如果有）/screenshot or video（if have）
 
