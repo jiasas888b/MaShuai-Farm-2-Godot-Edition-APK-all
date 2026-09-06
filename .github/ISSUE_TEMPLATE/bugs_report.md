@@ -20,4 +20,4 @@ assignees: ''
 Android 16 or Windows 11
 ### 客户端/client
 Android / Windows / Linux / MacOS
-## 修复的版本/fix version（无需填写/don't need fill in）
+## 修复的版本/fixed version（无需填写/don't need fill in）
