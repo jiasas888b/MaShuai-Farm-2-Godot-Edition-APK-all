@@ -1,0 +1,86 @@
+name: "🐛 Bug report"
+about: "report bugs"
+title: ""
+labels:
+  - "漏洞（bug）"
+  - "未解决(unresolved)"
+assignees: []
+body:
+  - type: "markdown"
+    attributes:
+      value: |
+        请尽量完整填写下面的内容，以便我们复现和修复问题。
+  - type: "textarea"
+    id: "describe"
+    attributes:
+      label: "描述 / Describe"
+      description: "请简要描述出现的问题。"
+      placeholder: "在这里描述问题，例如发生了什么、期望的行为，以及实际的行为。"
+      value: ""
+      required: true
+  - type: "input"
+    id: "reporter"
+    attributes:
+      label: "报告者 / Reporter"
+      description: "本人无需填写 If you are yourself, you don't need to fill it."
+      placeholder: "（可选）填写你的昵称或联系方式"
+      value: ""
+      required: false
+  - type: "textarea"
+    id: "steps_to_recreate"
+    attributes:
+      label: "重现步骤 / Steps to reproduce"
+      description: "请按步骤列出如何复现该问题（越具体越好）。"
+      placeholder: "1. 打开...\n2. 点击...\n3. 观察到..."
+      value: ""
+      required: true
+  - type: "file"
+    id: "attachments"
+    attributes:
+      label: "截图或视频 / Screenshot or video (if have)"
+      description: "如有截图或录屏请上传，可以帮助更快定位问题。"
+      multiple: true
+      required: false
+  - type: "input"
+    id: "game_version"
+    attributes:
+      label: "游戏版本 / Game version"
+      description: ""
+      placeholder: "例如 1.2.3"
+      value: ""
+      required: false
+  - type: "input"
+    id: "system_version"
+    attributes:
+      label: "您的操作系统以及版本 / Your system and system version"
+      description: "例如 Android 16 或 Windows 11"
+      placeholder: "例如: Android 16 或 Windows 11"
+      value: ""
+      required: false
+  - type: "checkboxes"
+    id: "client"
+    attributes:
+      label: "客户端 / Client"
+      description: ""
+      options:
+        - label: "Android"
+          value: "android"
+        - label: "Windows"
+          value: "windows"
+        - label: "Linux"
+          value: "linux"
+        - label: "MacOS"
+          value: "macos"
+      required: false
+  - type: "input"
+    id: "fixed_version"
+    attributes:
+      label: "修复的版本 / Fixed version"
+      description: "无需填写 / don't need fill in（如知道可填）"
+      placeholder: "例如 1.2.4（可选）"
+      value: ""
+      required: false
+  - type: "markdown"
+    attributes:
+      value: |
+        谢谢你的反馈！我们会尽快处理并在必要时联系你以获取更多信息。
